@@ -1,0 +1,1 @@
+# A software to support venture capitalists whether to invest in a start-up or not. 
