@@ -3,7 +3,7 @@
 **1.	Introduction**
 Venture capital enterprises follow a defined due diligence process. The aim of a due diligence is to find out whether an investor should invest in a start-up or not. This evaluation process is usually seen as very time consuming as some critical factors such as the company’s liquidity, its market position and customer base need to be considered first. Naturally, no one wants to invest in an unprofitable start-up and consequently make losses. That is why economists and researchers made it to their task to facilitate this evaluation process. The ideal solution would be a software which helps venture capitalists to collect and evaluate the most important information need to make investment decisions. The first part of the paper addresses the definition of venture capital. Furthermore, some pros and cons regarding venture capital financing will be drawn. The last chapter focusses on the application and usage of how such a software would be beneficial for venture capitalists during their diligence examination. 
 
-[Ulrich Anders](https://ulrich-anders.eu/) 
+[Unsplash](https://unsplash.com//) 
 ![Bild](01.jpg) 
 
 **2.	Definition of venture capital**
