@@ -24,7 +24,7 @@ Finally, VentureSpeed is also in charge of calculations of key figures such as l
 **5.	Conclusion**
 To sum up the above mentioned paragraphs it can be said that a due diligence is usually known as a very important process when it comes to investment decisions. With the acquired information the investor gets an overall view of the company he considers to invest in. Critical information such as market position, employee status, legal and financial position need to be evaluated. The biggest shortcut of a due diligence is its time exposure and the difficulty to find all necessary data. For this I came up with the idea to introduce a software called VentureSpeed. This is a self-learning software, which gathers, structures, evaluates and stores all necessary data an investor needs to know whether to invest in a company or not. Not only investors but also his colleagues and employees who are involved in this investment project can use such a software to discover informative articles about the company they want to invest in. VentureSpeed makes the whole audit process more structured, faster, easier and not least it provides the investor with a full 360-degree view of enterprises he considers to invest in. 
 
-6.	References
+**6.	References**
 
 Charles Humphreyson (2019): Venture capital may be answer for some new businesses, retrieved 28/09/2019 from http://web.a.ebscohost.com/ehost/detail/detail?vid=3&sid=7d8cd3da-7ac4-442f-9114-27e1ad47742d%40sdc-v-sessmgr02&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=9706190645&db=bwh.
 
