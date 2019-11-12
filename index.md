@@ -26,19 +26,19 @@ To sum up the above mentioned paragraphs it can be said that a due diligence is 
 
 6.	References
 
-Charles Humphreyson (2019): Venture capital may be answer for some new businesses, retrieved from http://web.a.ebscohost.com/ehost/detail/detail?vid=3&sid=7d8cd3da-7ac4-442f-9114-27e1ad47742d%40sdc-v-sessmgr02&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=9706190645&db=bwh, access on 28.09.2019.
+Charles Humphreyson (2019): Venture capital may be answer for some new businesses, retrieved 28/09/2019 from http://web.a.ebscohost.com/ehost/detail/detail?vid=3&sid=7d8cd3da-7ac4-442f-9114-27e1ad47742d%40sdc-v-sessmgr02&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=9706190645&db=bwh.
 
-Deutsche Spartups ( 2019): Due Diligence, retrieved from https://www.deutsche-startups.de/lexikon/due-diligence/,  access on 01/10/2019.
+Deutsche Spartups ( 2019): Due Diligence, retrieved 01/10/2019 from https://www.deutsche-startups.de/lexikon/due-diligence/.
 
-Gabler Wirtschaftslexikon (2019): Venture capital, retrieved from: https://wirtschaftslexikon.gabler.de/definition/venture-capital-49706, access on 28.09.2019.
+Gabler Wirtschaftslexikon (2019): Venture capital, retrieved 28.09.2019 from: https://wirtschaftslexikon.gabler.de/definition/venture-capital-49706.
 
-Investopedia (2019): Venture capital, under: https://www.investopedia.com/terms/v/venturecapital.asp, access on 28.09.2019.
+Investopedia (2019): Venture capital, retrieved 28/09/2019 from https://www.investopedia.com/terms/v/venturecapital.asp.
 
-Occhipiniti, Vince (2015): Behind the money curtain, retrieved from http://web.a.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=5&sid=87e530c7-8de7-49bb-859d-85412f9f5118%40sessionmgr4007, access on 30.09.2019. 
+Occhipiniti, Vince (2015): Behind the money curtain, retrieved 30/09/2019 from http://web.a.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=5&sid=87e530c7-8de7-49bb-859d-85412f9f5118%40sessionmgr4007. 
 
-Prengel, Cyril (2019): Due Diligence und Quick Checks für Venture Capital Fonds, retrieved from https://www.roedl.de/themen/due-diligence/due-diligence-venture-capital-fonds, access on 30.09.2019.
+Prengel, Cyril (2019): Due Diligence und Quick Checks für Venture Capital Fonds, retrieved 30.09.2019 from https://www.roedl.de/themen/due-diligence/due-diligence-venture-capital-fonds.
 
-SAS-Software D-A-CH (2019): Wo kann KI den Datenmanagement-Prozess unterstützen? | KI Podcast Folge 8 - KI Kompakt, retrieved from: https://www.youtube.com/watch?v=NMS6_CkvQ6E, access on 30.09.2019.
+SAS-Software D-A-CH (2019): Wo kann KI den Datenmanagement-Prozess unterstützen? KI Podcast Folge 8. KI Kompakt,retrieved 30/09/2019 from: https://www.youtube.com/watch?v=NMS6_CkvQ6E.
 
-Singhal, Ritesh (2015): Venture Capital Financing, retrieved from http://web.a.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=6&sid=d9a9417c-9887-42b7-8bd2-d1bed649c059%40sdc-v-sessmgr01, access on 30.09.2019.
+Singhal, Ritesh (2015): Venture Capital Financing, retrieved 30/09/2019 from http://web.a.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=6&sid=d9a9417c-9887-42b7-8bd2-d1bed649c059%40sdc-v-sessmgr01.
 
