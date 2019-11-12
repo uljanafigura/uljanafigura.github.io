@@ -1,4 +1,4 @@
-# A software to support venture capitalists whether to invest in a start-up or not.
+# A Paper in Digital Organizations with Prof. Dr. Ulrich Anders
 
 **1.	Introduction**
 Venture capital enterprises follow a defined due diligence process. The aim of a due diligence is to find out whether an investor should invest in a start-up or not. This evaluation process is usually seen as very time consuming as some critical factors such as the company’s liquidity, its market position and customer base need to be considered first. Naturally, no one wants to invest in an unprofitable start-up and consequently make losses. That is why economists and researchers made it to their task to facilitate this evaluation process. The ideal solution would be a software which helps venture capitalists to collect and evaluate the most important information need to make investment decisions. The first part of the paper addresses the definition of venture capital. Furthermore, some pros and cons regarding venture capital financing will be drawn. The last chapter focusses on the application and usage of how such a software would be beneficial for venture capitalists during their diligence examination. 
@@ -23,3 +23,13 @@ Finally, VentureSpeed is also in charge of calculations of key figures such as l
 
 **5.	Conclusion**
 To sum up the above mentioned paragraphs it can be said that a due diligence is usually known as a very important process when it comes to investment decisions. With the acquired information the investor gets an overall view of the company he considers to invest in. Critical information such as market position, employee status, legal and financial position need to be evaluated. The biggest shortcut of a due diligence is its time exposure and the difficulty to find all necessary data. For this I came up with the idea to introduce a software called VentureSpeed. This is a self-learning software, which gathers, structures, evaluates and stores all necessary data an investor needs to know whether to invest in a company or not. Not only investors but also his colleagues and employees who are involved in this investment project can use such a software to discover informative articles about the company they want to invest in. VentureSpeed makes the whole audit process more structured, faster, easier and not least it provides the investor with a full 360-degree view of enterprises he considers to invest in. 
+
+6.	References
+Charles Humphreyson (2019): Venture capital may be answer for some new businesses, retrieved from http://web.a.ebscohost.com/ehost/detail/detail?vid=3&sid=7d8cd3da-7ac4-442f-9114-27e1ad47742d%40sdc-v-sessmgr02&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=9706190645&db=bwh, access on 28.09.2019. 
+Deutsche Spartups ( 2019): Due Diligence, retrieved from https://www.deutsche-startups.de/lexikon/due-diligence/,  access on 01/10/2019.
+Gabler Wirtschaftslexikon (2019): Venture capital, retrieved from: https://wirtschaftslexikon.gabler.de/definition/venture-capital-49706, access on 28.09.2019.
+Investopedia (2019): Venture capital, under: https://www.investopedia.com/terms/v/venturecapital.asp, access on 28.09.2019.
+Occhipiniti, Vince (2015): Behind the money curtain, retrieved from http://web.a.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=5&sid=87e530c7-8de7-49bb-859d-85412f9f5118%40sessionmgr4007, access on 30.09.2019. 
+Prengel, Cyril (2019): Due Diligence und Quick Checks für Venture Capital Fonds, retrieved from https://www.roedl.de/themen/due-diligence/due-diligence-venture-capital-fonds, access on 30.09.2019.
+SAS-Software D-A-CH (2019): Wo kann KI den Datenmanagement-Prozess unterstützen? | KI Podcast Folge 8 - KI Kompakt, retrieved from: https://www.youtube.com/watch?v=NMS6_CkvQ6E, access on 30.09.2019.
+Singhal, Ritesh (2015): Venture Capital Financing, retrieved from http://web.a.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=6&sid=d9a9417c-9887-42b7-8bd2-d1bed649c059%40sdc-v-sessmgr01, access on 30.09.2019.
